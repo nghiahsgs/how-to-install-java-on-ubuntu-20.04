@@ -40,5 +40,5 @@ class HelloWorld {
 
 ```
 javac hello.java
-java hello
+java HelloWorld
 ```
